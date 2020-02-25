@@ -9,5 +9,4 @@ public class LoginTest {
 	{
 		System.out.println("Test 1");
 	}
-
 }
